@@ -1,2 +1,2 @@
 # .dotfiles
-Can't afford to loose it anymore 
+Not much, but can't lose it
